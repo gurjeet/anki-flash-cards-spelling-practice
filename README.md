@@ -10,3 +10,6 @@ deck.
 
 Each of the resulting cards contains HTML tag to show an audio player on the
 front of the deck, and the correspondig word behind the card.
+
+See a sample deck published at https://ankiweb.net/shared/info/877524126
+Import that deck into the Anki Desktop app and view the decks.
